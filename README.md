@@ -36,8 +36,13 @@ It demonstrates dual-method analysis for **data storytelling**, with an **execut
 
 > Upload your chart images to an `images/` folder, then uncomment these links.
 
-![Sales by Region](images/sales_by_region.png)  
-![Profit by Category](images/profit_by_category.png)  
+## 📸 Sample Visuals
+
+![Sales by Region](sales_by_region.png)  
+*The West dominates sales & profit compared to other regions.*
+
+![Profit by Category](profit_by_category.png)  
+*Technology is the most profitable category, while Furniture struggles with low margins.*
 
 ---
 
