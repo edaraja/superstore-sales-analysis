@@ -8,7 +8,11 @@ This project explores **sales and profitability patterns** in the Superstore dat
 It demonstrates dual-method analysis for **data storytelling**, with an **executive summary slide** for stakeholders.  
 
 ---
+## 📸 Executive Summary Slide
+![Executive Summary](executive_summary.png)  
+[📥 Download PowerPoint Slide](Sales_Analysis.pptx)  
 
+ 
 ## 📂 Deliverables
 - 📈 [Excel Analysis](Superstore_Analysis.xlsx): Pivot tables & charts for Sales & Profit  
 - 🐍 [Jupyter Notebook](Superstore_Analysis.ipynb): Reproducible analysis with pandas & matplotlib  
@@ -31,10 +35,6 @@ It demonstrates dual-method analysis for **data storytelling**, with an **execut
 - PowerPoint (executive summary design)  
 
 ---
-
-## 📸 Sample Visuals
-
-> Upload your chart images to an `images/` folder, then uncomment these links.
 
 ## 📸 Sample Visuals
 
