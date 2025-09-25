@@ -8,9 +8,16 @@ This project explores **sales and profitability patterns** in the Superstore dat
 It demonstrates dual-method analysis for **data storytelling**, with an **executive summary slide** for stakeholders.  
 
 ---
+
 ## 📸 Executive Summary Slide
 ![Executive Summary](executive_summary.png)  
-[📥 Download PowerPoint Slide](Sales_Analysis.pptx)  
+[📥 Download PowerPoint Slide](Sales_Analysis.pptx)
+
+---
+
+## 📑 Case Study (Download)
+For a recruiter-friendly one-page summary of this project:  
+[📥 Download Case Study PDF](Superstore_Case_Study_Emmanuel_Daraja.pdf)
 
  
 ## 📂 Deliverables
