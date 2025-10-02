@@ -72,25 +72,25 @@ In Lesson 2, I extended the analysis into **MySQL + Python integration** to show
 
 #### **Sales & Profit by Region**
 The **West region dominates sales and profit**, while Central and South lag.  
-![Sales & Profit by Region](images/sales_profit_by_region.png)  
+![Sales & Profit by Region](sales_profit_by_region.png)  
 
 #### **Profit by Category**
 **Technology** leads in profitability, followed by Office Supplies.  
 Furniture has the weakest margins.  
-![Profit by Category](images/profit_by_category.png)  
+![Profit by Category](profit_by_category.png)  
 
 #### **Profit by Sub-Category**
 Top performers: **Copiers, Phones, Accessories**.  
 Weak performers: **Art, Furnishings**.  
-![Profit by Sub-Category](images/sales_profit_by_subcategory.png)  
+![Profit by Sub-Category](sales_profit_by_subcategory.png)  
 
 #### **Top 10 Customers**
 A handful of customers (led by **Sean Miller**) generate a disproportionate share of sales.  
-![Top Customers](images/top_customers.png)  
+![Top Customers](top_customers.png)  
 
 #### **Monthly Sales & Profit Trends**
 Clear **seasonal spikes in Q4** with occasional dips from discounting.  
-![Monthly Sales & Profit](images/monthly_trends.png)  
+![Monthly Sales & Profit](monthly_trends.png)  
 
 ---
 
