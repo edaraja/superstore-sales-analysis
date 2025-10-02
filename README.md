@@ -113,17 +113,24 @@ Clear **seasonal spikes in Q4** with occasional dips from discounting.
 
 ## 📂 Deliverables
 ### Lesson 1
-- `Superstore_Analysis.xlsx` → Excel pivot tables & charts  
-- `Superstore_Analysis.ipynb` → Python notebook (Excel replication)  
-- `Superstore_Analysis.html` → Exported notebook report  
-- `Sales_Analysis.pptx` → Executive summary slide  
-- `Superstore_Case_Study_Emmanuel_Daraja.pdf` → Case study PDF  
+- - 📈 [Excel Analysis](Superstore_Analysis.xlsx): Pivot tables & charts for Sales & Profit  
+- 🐍 [Jupyter Notebook](Superstore_Analysis.ipynb): Reproducible analysis with pandas & matplotlib  
+- 🌐 [HTML Report](Superstore_Analysis.html):    Exported notebook report  
+- 🖼 [Executive Summary Slide](Sales_Analysis.pptx): Business-ready, one-slide insight  
+- 📊 [Dataset](Superstore_dataset.csv): Superstore data source
+- 
 
 ### Lesson 2
-- `Superstore_SQL_Analysis.ipynb` → MySQL + Python notebook  
 - `sql/queries.sql` → All MySQL queries  
 - `images/` → SQL-based chart exports  
-
+- 🐍 [Jupyter Notebook (Python + MySQL Analysis)](Superstore_SQL_Analysis.ipynb)
+-  [Superstore Sales Analysis (All SQL Queries)](superstore_sales_analysis_sql_queries.sql) 
+- 📸 Visuals:  
+  - ![Sales by Region](sales_by_region.png)  
+  - ![Profit by Category](profit_by_category.png)  
+  - ![Profit by Sub-Category](profit_by_subcategory.png)  
+  - ![Top Customers](top_customers.png)  
+  - ![Monthly Sales & Profit](monthly_trends.png)  
 ---
 
 ## 📌 About
